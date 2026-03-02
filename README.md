@@ -50,10 +50,10 @@ Complete guided quests and attend expert-led livestreams to build the skills you
 | Quest | Topic | What You'll Learn |
 |---|---|---|
 | [Quest 1](/01-Local-AI-Development/README.md) | Local AI Development with Foundry Local | Run AI models on-device for privacy, speed, and offline access |
-| [Quest 2](/02-End-to-End-Model-Development/README.md) | End-to-End Model Development on Microsoft Foundry | Build, train and deploy custom AI models with Microsoft Foundry's unified platform |
-| [Quest 3](/03-Serverless-RAG-Support-System/README.md) | Serverless RAG Support System | Build retrieval-augmented generation pipelines with LangChain.js |
-| [Quest 4](/04-Build-Agents-with-AI-Toolkit/README.md) | Build Agents with AI Toolkit | Create AI agents with MCP tools, evaluation, and code export on VS Code |
-| [Quest 5](/05-E2E-Burger-Ordering-Agent/README.md) | E2E Burger Ordering Agent | Design and run a full agentic system with MCP server integration |
+| [Quest 2](/02-E2E-Model-Development-on-Foundry/README.md) | End-to-End Model Development on Microsoft Foundry | Build, train and deploy custom AI models with Microsoft Foundry's unified platform |
+| [Quest 3](/03-Run-Serverless-RAG-Support-System/README.md) | Serverless RAG Support System | Build retrieval-augmented generation pipelines with LangChain.js |
+| [Quest 4](/04-Build-Agents-with-AIToolKit/README.md) | Build Agents with AI Toolkit | Create AI agents with MCP tools, evaluation, and code export on VS Code |
+| [Quest 5](/05-Run-Burger-Ordering-Agent-System/README.md) | E2E Burger Ordering Agent | Design and run a full agentic system with MCP server integration |
 
 Participation Requirement: Complete at least 2 quests (including the guided project) to be eligible for the hack.
 
